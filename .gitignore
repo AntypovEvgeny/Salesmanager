@@ -1,1 +1,4 @@
-/src/
+*.iml
+.idea
+out
+target
